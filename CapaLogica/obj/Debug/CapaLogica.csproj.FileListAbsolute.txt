@@ -1,0 +1,10 @@
+C:\Users\W10-PC\source\repos\ProyectoFinalFarmacia\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\W10-PC\source\repos\ProyectoFinalFarmacia\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\W10-PC\source\repos\ProyectoFinalFarmacia\CapaLogica\bin\Debug\CapaDB.dll
+C:\Users\W10-PC\source\repos\ProyectoFinalFarmacia\CapaLogica\bin\Debug\CapaDB.pdb
+C:\Users\W10-PC\source\repos\ProyectoFinalFarmacia\CapaLogica\bin\Debug\CapaDB.dll.config
+C:\Users\W10-PC\source\repos\ProyectoFinalFarmacia\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\W10-PC\source\repos\ProyectoFinalFarmacia\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\W10-PC\source\repos\ProyectoFinalFarmacia\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\W10-PC\source\repos\ProyectoFinalFarmacia\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\W10-PC\source\repos\ProyectoFinalFarmacia\CapaLogica\obj\Debug\CapaLogica.pdb

@@ -1,0 +1,7 @@
+C:\Users\W10-PC\source\repos\ProyectoFinalFarmacia\CapaDB\bin\Debug\CapaDB.dll.config
+C:\Users\W10-PC\source\repos\ProyectoFinalFarmacia\CapaDB\bin\Debug\CapaDB.dll
+C:\Users\W10-PC\source\repos\ProyectoFinalFarmacia\CapaDB\bin\Debug\CapaDB.pdb
+C:\Users\W10-PC\source\repos\ProyectoFinalFarmacia\CapaDB\obj\Debug\CapaDB.csproj.AssemblyReference.cache
+C:\Users\W10-PC\source\repos\ProyectoFinalFarmacia\CapaDB\obj\Debug\CapaDB.csproj.CoreCompileInputs.cache
+C:\Users\W10-PC\source\repos\ProyectoFinalFarmacia\CapaDB\obj\Debug\CapaDB.dll
+C:\Users\W10-PC\source\repos\ProyectoFinalFarmacia\CapaDB\obj\Debug\CapaDB.pdb
