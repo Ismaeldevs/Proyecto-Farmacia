@@ -9,4 +9,5 @@ Esta aplicación fue creada con fines de un proyecto de práctica de un CRUD con
  Está página para los datos se la hizo con Sql Server y el diseño es proporcionado con WindowsForms, esta aplicación fue una excelente
 práctica para fortalecer la lógica y conocimientos de C# y el manejo de base de datos con Sql Server. 
 
-[INFO]
+[INICIAR PROYECTO](docs/READNE.md)
+El proyecto
