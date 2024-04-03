@@ -22,6 +22,6 @@ Para instalar el proyecto e inicializarlo sigue los siguientes pasos:
 
 ## AUTORES
 
-- [@Ismaeldev](https://github.com/IsmaDevs)
+- [@Ismaeldev](https://github.com/Ismaeldevs)
 - [@ChocobarMatias](https://github.com/ChocobarMatias)
 
